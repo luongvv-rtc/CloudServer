@@ -7,3 +7,12 @@ Nextcloud is an open-source, self-hosted file-sharing and collaboration platform
 * Activate and configure NextCloud. 
 * Setup external storage for Cloud Server. 
 * Configure external access over the Internet.
+
+## How to use:
+Open web browser.
+Type the URL that link to the NextCloud.
+Type username and password to login.
+Boom!!! All of yours files are here. You can use the Upload to update your documents to NextCloud Sotrage.
+
+## Special Thank
+Thank you, Kim Rhodes, for all the guidance on this project and during the course.
