@@ -7,23 +7,23 @@ Now, you can use your Raspberry Pi with an external HDD to play the role of this
 ## Project Scope
 * Install and configure NextCloudPi OS on Raspberry Pi.
 * Activate and configure NextCloud. 
-* Setup external storage for Cloud Server. 
+* Set up external storage for Cloud Server. 
 * Configure external access over the Internet.
 
 ## Prerequisites
-* An Raspberry Pi with an at least 32G microSD Card.
+* A Raspberry Pi with at least a 32G microSD Card.
 * An external HDD.
    
 ## How to setup
 Click [here](https://github.com/luongvv-rtc/CloudServer/blob/main/Setup.pdf) to refer to the guideline document.
 
 ## How to use
-1. Using web browser:
+1. Using a web browser
 
-Open web browser.
-Type the URL that link to the NextCloud.
-Type username and password to login.
-Boom!!! All of yours files are here. You can click the "Upload" botton to update your documents to NextCloud Sotrage.
+Open a web browser.
+Type the URL that links to the NextCloud.
+Type username and password to log in.
+Boom!!! All of your files are here. You can click the "Upload" button to update your documents to NextCloud Storage.
 
 2. Using desktop client
 
