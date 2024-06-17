@@ -10,7 +10,7 @@ Now, you can use your Raspberry Pi with an external HDD to play the role of this
 * Setup external storage for Cloud Server. 
 * Configure external access over the Internet.
 
-## How to use:
+## How to setup:
 Click [here](https://github.com/luongvv-rtc/CloudServer/blob/main/Setup.docx) to refer to the guideline document.
 
 ## How to use:
