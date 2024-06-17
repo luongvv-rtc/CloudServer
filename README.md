@@ -1,12 +1,17 @@
 # Cloud Storage
+
 ## Overview
 Nextcloud is an open-source, self-hosted file-sharing and collaboration platform that allows users to store, manage, and share files securely. It offers a range of functionalities similar to popular cloud storage services like Google Drive, Dropbox, and Microsoft OneDrive but with the added advantage of giving users complete control over their data and privacy. 
+Now, you can use your Raspberry Pi with an external HDD to play the role of this cloud storage server.
 
 ## Project Scope
 * Install and configure NextCloudPi OS on Raspberry Pi.
 * Activate and configure NextCloud. 
 * Setup external storage for Cloud Server. 
 * Configure external access over the Internet.
+
+## How to use:
+Click [here] (Set Up Your Own Raspberry Pi Cloud Server with Nextcloud.docx)to refer to the guideline document.
 
 ## How to use:
 Open web browser.
