@@ -11,7 +11,7 @@ Now, you can use your Raspberry Pi with an external HDD to play the role of this
 * Configure external access over the Internet.
 
 ## How to use:
-Click [here] (Set Up Your Own Raspberry Pi Cloud Server with Nextcloud.docx)to refer to the guideline document.
+Click [here](Set Up Your Own Raspberry Pi Cloud Server with Nextcloud.docx)to refer to the guideline document.
 
 ## How to use:
 Open web browser.
