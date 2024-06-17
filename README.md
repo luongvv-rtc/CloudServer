@@ -11,7 +11,7 @@ Now, you can use your Raspberry Pi with an external HDD to play the role of this
 * Configure external access over the Internet.
 
 ## Prerequisites
-* An Raspberry Pi with microSD Card at least 32G capacity.
+* An Raspberry Pi with an at least 32G microSD Card.
 * An external HDD.
    
 ## How to setup
