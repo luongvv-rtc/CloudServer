@@ -18,7 +18,8 @@ Now, you can use your Raspberry Pi with an external HDD to play the role of this
 Click [here](https://github.com/luongvv-rtc/CloudServer/blob/main/Setup.docx) to refer to the guideline document.
 
 ## How to use
-1. Using web browser
+1. Using web browser:
+
 Open web browser.
 Type the URL that link to the NextCloud.
 Type username and password to login.
